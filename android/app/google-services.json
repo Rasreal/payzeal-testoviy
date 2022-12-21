@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "892429934297",
+    "project_id": "payzeal-testoviy",
+    "storage_bucket": "payzeal-testoviy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892429934297:android:650192c46d064c4b6a28c8",
+        "android_client_info": {
+          "package_name": "com.payzeal.testoviy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892429934297-uklato0doacv32cnac8qqi57op7he7r6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payzeal.testoviy",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "892429934297-l9cdkk7666e6vhb5lnk2g9nfhvjdg0bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByharlAMYuWW6R-GsSCHoTWSvt0SJxf_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892429934297-l9cdkk7666e6vhb5lnk2g9nfhvjdg0bl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "892429934297-upm9k0odi910p2otve1tcqu7sl8t94v8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.payzeal.testoviy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892429934297:android:813bd403ce9283686a28c8",
+        "android_client_info": {
+          "package_name": "com.wlff.payzeal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892429934297-h7762obql7ir7hpolbcnqha39rsdh43s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wlff.payzeal",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "892429934297-l9cdkk7666e6vhb5lnk2g9nfhvjdg0bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByharlAMYuWW6R-GsSCHoTWSvt0SJxf_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892429934297-l9cdkk7666e6vhb5lnk2g9nfhvjdg0bl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "892429934297-upm9k0odi910p2otve1tcqu7sl8t94v8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.payzeal.testoviy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
